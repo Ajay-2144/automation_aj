@@ -10,15 +10,15 @@ public class App2Test
     public void a()
     {
         System.out.println("vedika");
-    }
+    } @Test
     public void b()
     {
         System.out.println("ajay");
-    }
+    } @Test
     public void c()
     {
         System.out.println("mohini");
-    }
+    } @Test
     public void d()
     {
         System.out.println("dada");
