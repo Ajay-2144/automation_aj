@@ -13,7 +13,15 @@ public class App2Test
     }
     public void b()
     {
-        System.out.println("vedika");
+        System.out.println("ajay");
+    }
+    public void c()
+    {
+        System.out.println("mohini");
+    }
+    public void d()
+    {
+        System.out.println("dada");
     }
   
     
