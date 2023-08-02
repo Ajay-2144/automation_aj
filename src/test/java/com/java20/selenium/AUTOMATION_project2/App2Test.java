@@ -15,13 +15,6 @@ public class App2Test
     {
         System.out.println("vedika");
     }
-    public void c()
-    {
-        System.out.println("vedika");
-    }
-    public void d()
-    {
-        System.out.println("vedika");
-    }
+  
     
 }
