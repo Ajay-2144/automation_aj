@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.java20.selenium.AUTOMATION_project2.App4Test"/>
+      <class name="com.java20.selenium.AUTOMATION_project2.App5Test"/>
+      <class name="com.java20.selenium.AUTOMATION_project2.App3Test"/>
+<!--      <class name="com.java20.selenium.AUTOMATION_project2.Aj"/>
+-->      <class name="com.java20.selenium.AUTOMATION_project2.App2Test"/>
+      <class name="com.java20.selenium.AUTOMATION_project2.App7Test"/>
+      <class name="com.java20.selenium.AUTOMATION_project2.App6Test"/>
+      <class name="com.java20.selenium.AUTOMATION_project2.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
