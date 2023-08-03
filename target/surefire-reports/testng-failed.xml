@@ -7,13 +7,11 @@
         <methods>
           <include name="addtocart"/>
           <include name="alerts"/>
-          <include name="autodropdown1"/>
           <include name="msrtc"/>
           <include name="linkcount"/>
           <include name="babu"/>
           <include name="ajay"/>
-          <include name="cricbuz"/>
-          <include name="windowshandle"/>
+          <include name="rushi"/>
         </methods>
       </class> <!-- com.java20.selenium.AUTOMATION_project2.Aj -->
     </classes>
