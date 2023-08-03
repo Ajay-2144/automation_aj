@@ -22,6 +22,27 @@ public class App21Test
     public void d()
     {
         System.out.println("dada");
+        
+    }
+    public void e()
+    {
+        System.out.println("akshay");
+        
+    }
+    public void f()
+    {
+        System.out.println("prasad");
+        
+    }
+    public void g()
+    {
+        System.out.println("aniket");
+        
+    }
+    public void h()
+    {
+        System.out.println("abhi");
+        
     }
   
     
